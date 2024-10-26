@@ -29,7 +29,7 @@ const Dilusha = {
   currentProject: "Sun & Moon Resort",
   learning: "Java",
   askMeAbout: ["Java", "Web Dev", "Mobile Dev"],
-  reachMe: "dilshanColonne123@gmail.com",
+  reachMe: "sadaruwan.optimous@gmail.com",
   funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 };
 ```
