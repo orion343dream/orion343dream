@@ -147,16 +147,12 @@ const Dilusha = {
 </p>
 <br><br>
 
-## 🔝 Top Contributed Repo
-
-[![Sun & Moon Resort Project](https://github-readme-stats.vercel.app/api/pin/?username=ChamathDilshanC&repo=Sun-MoonResort_Project&theme=radical)](https://github.com/ChamathDilshanC/Sun-MoonResort_Project)
-<br><br>
 
 ## 🔭 Ongoing Projects
 
 | Project Name | Description |
 |--------------|-------------|
-| [Sun & Moon Resort](https://github.com/orion343dream) | Transaction management system for a resort |
+| (https://github.com/orion343dream) | Transaction management system for a hotel |
 | [Flutter ToDo App](https://github.com/orion343dream) | A ToDo app built using Flutter |
 <br><br>
 
