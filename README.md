@@ -27,30 +27,24 @@
     </a>
 </p>
 <h2 align="center">🚀 About Me</h2>
-javascriptCopyconst aboutMe = {
-    education: "Studying at IJSE-Institute of Software Engineering",
-    currentFocus: "Computer Science and Software Engineering",
-    interests: [
-        "Competitive Programming at Codeforces",
-        "Learning New Technologies",
-        "Collaboration Opportunities"
-    ],
-    currentlyLearning: [
-        "Java", "MySQL", "Hibernate",
-        "HTML", "JavaFX", "CSS"
-    ],
-    lookingFor: [
-        "Coding Help",
-        "Collaboration Opportunities"
-    ],
-    funFact: "Dream big because that's how you learn to think bigger 👽👽"
+
+```javascript
+- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
+- 🌱 I’m currently learning Computer Science and Software Engineering.
+- 💻 I am a competitive programmer mainly at Codeforces.
+- 👨 Always learning new things
+- 👯 I’m looking to collaborate.
+- 🤔 I’m looking for help with Coding.
+- 🌱 Currently learning Java, MySql, Hibarnate, HTML, JavaFx, CSS.
+funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 };
+```
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiyumalNipuna60&theme=monokai" alt="GitHub Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orion343dream&theme=monokai" alt="GitHub Stats">
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=PiyumalNipuna60&theme=soft-green" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=orion343dream&theme=soft-green" alt="GitHub Streak">
 </p>
 <h2 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -77,15 +71,57 @@ javascriptCopyconst aboutMe = {
 </p>
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiyumalNipuna60&theme=tokyonight" alt="Profile Details">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orion343dream&theme=tokyonight" alt="Profile Details">
 </p>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PiyumalNipuna60&theme=tokyonight&utcOffset=8" alt="Productive Time">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiyumalNipuna60&theme=tokyonight" alt="Most Used Languages">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orion343dream&theme=tokyonight&utcOffset=8" alt="Productive Time">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orion343dream&theme=tokyonight" alt="Most Used Languages">
 </p>
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PiyumalNipuna60&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=orion343dream&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+## 🎨 Design Projects
+
+- 🖌️ UI/UX Designs with Figma
+- 🖥️ Responsive Web Designs
+<br><br>
+
+## 💡 Coding Practices
+
+- 🧹 Adherence to clean code principles
+- 🧩 Emphasis on modular design and reusability
+- 🧪 Proficiency in test-driven development (TDD)
+<br><br>
+
+## 🤝 Collaborations
+
+- 🌟 Open to collaboration on open-source projects
+- 👥 Keen interest in pair programming sessions
+<br><br>
+
+## 📜 Recent Achievements
+
+- 🏆 Completed a course in Advanced Java Programming
+- 🚀 Led a team in the development of a mobile app for local businesses
+<br><br>
+
+## ✍️ Publications & Talks
+
+- 📢 **"Harnessing Java for Web Development"** - TechTalk Conference, 2023
+- 🎤 **"Mobile App Development: Trends and Challenges"** - Developer's Summit, 2024
+<br><br>
+
+## 📝 Upcoming Plans
+
+- 🧠 Expanding skill set in AI and machine learning
+- 🌐 Contributing to more open-source projects
+<br><br>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
