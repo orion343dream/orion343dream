@@ -61,27 +61,59 @@ funFact: "Dream big because of that you will learn how to think bigger 👽👽"
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
-<h2 align="center">🛠️ Skills & Tools</h2>
-<h3 align="center">Languages and Technologies</h3>
+## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px"></a>
+
+<!-- <img align="left" alt="GIF" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/image.gif" width="300" height="300" style="max-width: 100%;"> -->
+
+<h3 align="center"><b><i>Language Stack </i></b></h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,bootstrap,github,jquery,hibernate,spring,git" alt="Skills" />
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,typescript,python,php,dart" />
+  </a>
 </p>
-<h3 align="center">Development Tools</h3>
+
+<h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,ps,figma,linux,githubactions" alt="Tools" />
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nodejs,react,spring,jquery,bootstrap,tailwindcss,materialui,maven,flutter,nest,next" />
+  </a>
 </p>
-<h2 align="center">📊 GitHub Analytics</h2>
+
+<h3 align="center"><b><i>ORM </i></b></h3>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orion343dream&theme=tokyonight" alt="Profile Details">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=hibernate" />
+  </a>
 </p>
+
+<h3 align="center"><b><i>Database Handling </i></b></h3>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orion343dream&theme=tokyonight&utcOffset=8" alt="Productive Time">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orion343dream&theme=tokyonight" alt="Most Used Languages">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" />
+  </a>
 </p>
-<h2 align="center">🏆 GitHub Trophies</h2>
+
+<h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=orion343dream&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=figma,xd,androidstudio,idea,vscode,eclipse,vite" />
+  </a>
 </p>
+
+<h3 align="center"><b><i>API Platform, Servers and Cloud Computing</i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=postman,gcp,azure,apache" />
+  </a>
+</p>
+
+<h3 align="center"><b><i>Version Control Software</i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  </a>
+</p>
+
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
