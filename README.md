@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">Profile 3D Contributions 🔰</h3>
 <p align="center">
-    <img alt="Contribution Snake" width="900" src="https://github.com/orion343dream/red-alpha/blob/main/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" width="900" src="https://github.com/orion343dreamgithub-contribution-grid-snake.svg">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue" width="600" height="30" />
