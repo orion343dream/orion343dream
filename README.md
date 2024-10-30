@@ -27,24 +27,19 @@
     </a>
 </p>
 <h2 align="center">🚀 About Me</h2>
-javascriptCopyconst aboutMe = {
-    education: "Studying at IJSE-Institute of Software Engineering",
-    currentFocus: "Computer Science and Software Engineering",
-    interests: [
-        "Competitive Programming at Codeforces",
-        "Learning New Technologies",
-        "Collaboration Opportunities"
-    ],
-    currentlyLearning: [
-        "Java", "MySQL", "Hibernate",
-        "HTML", "JavaFX", "CSS"
-    ],
-    lookingFor: [
-        "Coding Help",
-        "Collaboration Opportunities"
-    ],
-    funFact: "Dream big because that's how you learn to think bigger 👽👽"
+
+```javascript
+- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
+- 🌱 I’m currently learning Computer Science and Software Engineering.
+- 💻 I am a competitive programmer mainly at Codeforces.
+- 👨 Always learning new things
+- 👯 I’m looking to collaborate.
+- 🤔 I’m looking for help with Coding.
+- 🌱 Currently learning Java, MySql, Hibarnate, HTML, JavaFx, CSS.
+funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 };
+```
+<br><br>
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiyumalNipuna60&theme=monokai" alt="GitHub Stats">
