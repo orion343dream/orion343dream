@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">Profile 3D Contributions 🔰</h3>
 <p align="center">
-    <img alt="Contribution Snake" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" width="900" src="https://github.com/orion343dream/red-alpha/blob/main/github-contribution-grid-snake.svg">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue" width="600" height="30" />
@@ -42,10 +42,10 @@ funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 <br><br>
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiyumalNipuna60&theme=monokai" alt="GitHub Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orion343dream&theme=monokai" alt="GitHub Stats">
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=PiyumalNipuna60&theme=soft-green" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=orion343dream&theme=soft-green" alt="GitHub Streak">
 </p>
 <h2 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -72,15 +72,15 @@ funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 </p>
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiyumalNipuna60&theme=tokyonight" alt="Profile Details">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orion343dream&theme=tokyonight" alt="Profile Details">
 </p>
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PiyumalNipuna60&theme=tokyonight&utcOffset=8" alt="Productive Time">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiyumalNipuna60&theme=tokyonight" alt="Most Used Languages">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orion343dream&theme=tokyonight&utcOffset=8" alt="Productive Time">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orion343dream0&theme=tokyonight" alt="Most Used Languages">
 </p>
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PiyumalNipuna60&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=orion343dream&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
