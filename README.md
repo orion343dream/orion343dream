@@ -81,6 +81,8 @@ funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=orion343dream&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
+<br>
+
 ## 🎨 Design Projects
 
 - 🖌️ UI/UX Designs with Figma
