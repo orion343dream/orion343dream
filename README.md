@@ -76,7 +76,7 @@ funFact: "Dream big because of that you will learn how to think bigger 👽👽"
 </p>
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orion343dream&theme=tokyonight&utcOffset=8" alt="Productive Time">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orion343dream0&theme=tokyonight" alt="Most Used Languages">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orion343dream&theme=tokyonight" alt="Most Used Languages">
 </p>
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
