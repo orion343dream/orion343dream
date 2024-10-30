@@ -13,7 +13,7 @@
 </p>
 <h3 align="center">Profile 3D Contributions 🔰</h3>
 <p align="center">
-   <img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue" width="600" height="30" />
@@ -27,25 +27,30 @@
     </a>
 </p>
 <h2 align="center">🚀 About Me</h2>
-
-```javascript
-- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
-- 🌱 I’m currently learning Computer Science and Software Engineering.
-- 💻 I am a competitive programmer mainly at Codeforces.
-- 👨 Always learning new things
-- 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with Coding.
-- 🌱 Currently learning Java, MySql, Hibarnate, HTML, JavaFx, CSS.
-funFact: "Dream big because of that you will learn how to think bigger 👽👽"
+javascriptCopyconst aboutMe = {
+    education: "Studying at IJSE-Institute of Software Engineering",
+    currentFocus: "Computer Science and Software Engineering",
+    interests: [
+        "Competitive Programming at Codeforces",
+        "Learning New Technologies",
+        "Collaboration Opportunities"
+    ],
+    currentlyLearning: [
+        "Java", "MySQL", "Hibernate",
+        "HTML", "JavaFX", "CSS"
+    ],
+    lookingFor: [
+        "Coding Help",
+        "Collaboration Opportunities"
+    ],
+    funFact: "Dream big because that's how you learn to think bigger 👽👽"
 };
-```
-<br><br>
 <h2 align="center">🔥 Streak Stats</h2>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orion343dream&theme=monokai" alt="GitHub Stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiyumalNipuna60&theme=monokai" alt="GitHub Stats">
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=orion343dream&theme=soft-green" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PiyumalNipuna60&theme=soft-green" alt="GitHub Streak">
 </p>
 <h2 align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -61,47 +66,27 @@ funFact: "Dream big because of that you will learn how to think bigger 👽👽"
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
-
-
-## 🛠️ My Skills <img src="https://raw.githubusercontent.com/NimeshPiyumantha/red-alpha/main/giphy%20(1).webp" width="40px"></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=200&lines=Languages+and+Tools%3A)](https://git.io/typing-svg)
-
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp; </a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=css" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=jquery" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=java" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=html" alt="slack" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=150&lines=My+Tool%3A)](https://git.io/typing-svg)
-
- <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=py" alt="py" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=hibernate" alt="hibernate" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" alt="ps" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a>
-
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-
-
-
+<h2 align="center">🛠️ Skills & Tools</h2>
+<h3 align="center">Languages and Technologies</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,bootstrap,github,jquery,hibernate,spring,git" alt="Skills" />
+</p>
+<h3 align="center">Development Tools</h3>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,ps,figma,linux,githubactions" alt="Tools" />
+</p>
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiyumalNipuna60&theme=tokyonight" alt="Profile Details">
+</p>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PiyumalNipuna60&theme=tokyonight&utcOffset=8" alt="Productive Time">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiyumalNipuna60&theme=tokyonight" alt="Most Used Languages">
+</p>
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=PiyumalNipuna60&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
